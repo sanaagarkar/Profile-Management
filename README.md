@@ -2,6 +2,12 @@
 
 This project uses Mapbox GL JS for displaying interactive maps with user profile locations.
 
+
+<img width="1421" alt="Screenshot 2025-04-01 at 10 30 41 PM" src="https://github.com/user-attachments/assets/83a236b8-b609-4039-ac9a-52e712bdf4e5" />
+
+
+
+
 ## Setup Instructions
 
 ### 1. Mapbox Token Setup
@@ -71,6 +77,7 @@ Add these required styles to your `app/globals.css`:
   border-radius: 8px;
 }
 ```
+<img width="1465" alt="Screenshot 2025-04-01 at 10 31 06 PM" src="https://github.com/user-attachments/assets/01b3c9da-ba2b-47b1-8d7e-40e93b5a415a" />
 
 ### 4. Usage
 
@@ -140,6 +147,7 @@ Mapbox GL JS supports:
 - Modern mobile browsers
 
 ### 9. Development
+<img width="1462" alt="Screenshot 2025-04-01 at 10 30 50 PM" src="https://github.com/user-attachments/assets/2d454965-567a-4817-a602-fa48180aa9f4" />
 
 To run the project locally:
 
